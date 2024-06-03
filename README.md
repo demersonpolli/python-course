@@ -2,7 +2,7 @@
 
 Neste repositório você encontra alguns *notebooks* do Jupyter com a apresentação de recursos básicos da linguagem **Python**. Este material foi desenvolvido inicialmente como notas de aula para um curso introdutório de Python utilizando o Google Colaboratory. A ideia inicial é fornecer subsídios para que uma pessoa com nenhum conhecimento prévio da linguagem seja capaz de, após entender os exemplos, desenvolver alguns códigos em Python para desenvolver tarefas simples.
 
-O conteúdo deste tutorial cobre aproximadamente o programa cobrado na certificação [PCEP - Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep) e apresenta os recursos centrais das bibliotecas [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [SciPy](https://scipy.org/) e [Scikit-learn](https://scikit-learn.org/stable/).
+O conteúdo deste tutorial cobre aproximadamente o programa cobrado na certificação [PCEP - Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep), parte do programa cobrado na certificação [PCAP - Certified Associate Python Programmer](https://pythoninstitute.org/pcap) e apresenta os recursos centrais das bibliotecas [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [SciPy](https://scipy.org/) e [Scikit-learn](https://scikit-learn.org/stable/).
 
 Todo o material foi organizado por mim, [Démerson Polli](https://www.linkedin.com/in/polli/), e está disponível para uso público de acordo com a licença [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
